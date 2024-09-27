@@ -1,4 +1,4 @@
-# Exploratory Data Analysis on Job Salaries in Data Science
+# Exploratory Data Analysis on Job Salaries in Data Science 
 
 ## Overview
 
